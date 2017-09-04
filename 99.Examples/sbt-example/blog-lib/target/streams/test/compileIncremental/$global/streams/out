@@ -1,0 +1,40 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\target\scala-2.11\test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler a360c40, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_101\lib\resources.jar;C:\Program Files\Java\jre1.8.0_101\lib\rt.jar;C:\Program Files\Java\jre1.8.0_101\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_101\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_101\lib\jce.jar;C:\Program Files\Java\jre1.8.0_101\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_101\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_101\classes;C:\Users\Michael\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\target\scala-2.11\test-classes;C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\target\scala-2.11\classes;C:\Users\Michael\.ivy2\cache\org.scalactic\scalactic_2.11\bundles\scalactic_2.11-3.0.0.jar;C:\Users\Michael\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar;C:\Users\Michael\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-3.0.0.jar;C:\Users\Michael\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.5.jar;C:\Users\Michael\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.324225441 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Michael\Dropbox\QA\courseware-dev\scala\scala-projects\sbt-example\blog-lib\src\test\scala\ExampleSpec.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	convertToStringShouldWrapperForVerb, convertToStringCanWrapper, convertToEqualizer, convertToInAndIgnoreMethodsAfterTaggedAs, shorthandSharedTestRegistrationFunction, unconstrainedEquality, convertToStringMustWrapperForVerb, convertToInAndIgnoreMethods, shorthandTestRegistrationFunction.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

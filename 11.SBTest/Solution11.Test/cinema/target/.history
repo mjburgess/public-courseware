@@ -1,0 +1,5 @@
+run
+logLevel in run := Level.Warn
+set logLevel in run := Level.Warn
+run
+test

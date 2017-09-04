@@ -1,0 +1,246 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+15 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Cinema$$anonfun$admit$1.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Cinema.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Customer$.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Customer.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Film$.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Film.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Premium$.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Premium.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Showing.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Standard$.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Standard.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Ticket.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/CinemaApplication$$anonfun$main$1.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/CinemaApplication$.class
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/CinemaApplication.class
+binary dependencies:
+4 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> /Users/mjburgess/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> /Users/mjburgess/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> /Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+15 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Cinema
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Cinema$$anonfun$admit$1
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Customer
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Customer$
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Film
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Film$
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Premium
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Premium$
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Showing
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Standard
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Standard$
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Ticket
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> CinemaApplication
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> CinemaApplication$
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> CinemaApplication$$anonfun$main$1
+used names:
+113 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> &&
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> <init>
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> <repeated>
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> ==
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> A
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> AbstractFunction0
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> AbstractFunction1
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Any
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> AnyRef
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> B
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Boolean
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> CanBuildFrom
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Cinema
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Coll
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Customer
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Film
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Function1
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> IndexOutOfBoundsException
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Int
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Iterator
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Map
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> MatchError
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> None
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Nothing
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Object
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Predef
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Premium
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Product
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> ScalaRunTime
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Seq
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Serializable
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Set
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Showing
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Some
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Standard
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> String
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> StringContext
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> T
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> T0
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> That
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> Ticket
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> _hashCode
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> _toString
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> admit
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> apply
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> asInstanceOf
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> c
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> canBuildFrom
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> collection
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> customers
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> eq
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> film
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> isInstanceOf
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> keySet
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> map
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> mkString
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> name
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> package
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> runtime
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> s
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> scala
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> screen
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> seat
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> showings
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> ticket
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> toString
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> typedProductIterator
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> ||
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> +:
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> ->
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> <init>
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> <repeated>
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> A
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Any
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> AnyRef
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Array
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> ArrowAssoc
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> B
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> CanBuildFrom
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Cinema
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> CinemaApplication
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Coll
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Customer
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Film
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Function1
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Map
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Nothing
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Object
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Predef
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Premium
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Seq
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Showing
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Standard
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> String
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> That
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Ticket
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Tuple2
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> U
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Unit
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> Vector
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> admit
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> apply
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> canBuildFrom
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> collection
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> customers
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> describe
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> fantasia
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> fantasound
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> foreach
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> oldPictureHouse
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> package
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> println
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> scala
+product stamps:
+15 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Cinema$$anonfun$admit$1.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Cinema.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/CinemaApplication$$anonfun$main$1.class -> lastModified(1492363248000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/CinemaApplication$.class -> lastModified(1492363248000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/CinemaApplication.class -> lastModified(1492363248000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Customer$.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Customer.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Film$.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Film.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Premium$.class -> lastModified(1492363304000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Premium.class -> lastModified(1492363305000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Showing.class -> lastModified(1492363305000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Standard$.class -> lastModified(1492363305000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Standard.class -> lastModified(1492363305000)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/target/scala-2.11/classes/Ticket.class -> lastModified(1492363305000)
+source stamps:
+2 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> hash(c97c2149c5dfc3f4aa4a7dc6a70d2ce2b6084fcb)
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> hash(a497e844bdf32013efe8c84ab387262969a8161c)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1474584629000)
+/Users/mjburgess/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mjburgess/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction1
+internal apis:
+2 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQJZl7gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAArc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw1p1PnXQABm5vdGlmeXNxAH4ADEGIuqJ0AARuYW1lc3EAfgAMiILgZnQABkNpbmVtYXNxAH4ADAcKyOZ0AAR3YWl0c3EAfgAM5bOmlHQADSRhc0luc3RhbmNlT2ZzcQB+AAzBQ7hrdAAMcHJvZHVjdEFyaXR5c3EAfgAMGpsWI3QABmVxdWFsc3NxAH4ADFCeII50AAdQcmVtaXVtc3EAfgAM9f5kt3QADGFzSW5zdGFuY2VPZnNxAH4ADEllCAt0AAhTdGFuZGFyZHNxAH4ADBiraCN0AAxzeW5jaHJvbml6ZWRzcQB+AAziTbrCdAAGVGlja2V0c3EAfgAMBGXrpHQADSRpc0luc3RhbmNlT2ZzcQB+AAw6rf8WdAAERmlsbXNxAH4ADAEg+Pd0AARzZWF0c3EAfgAMeOSZY3QACGNhbkVxdWFsc3EAfgAM2JNRVXQACGRlc2NyaWJlc3EAfgAMRaCItHQADXByb2R1Y3RQcmVmaXhzcQB+AAzkQN0mdAAGdGlja2V0c3EAfgAMgfpveHQACW5vdGlmeUFsbHNxAH4ADB3+kxR0AAxpc0luc3RhbmNlT2ZzcQB+AAwMRNOvdAAGPGluaXQ+c3EAfgAMVjd26nQAB1Nob3dpbmdzcQB+AAwNh/zWdAACPT1zcQB+AAwPydOadAAFY2xvbmVzcQB+AAxZ+LojdAAIQ3VzdG9tZXJzcQB+AAy3orPbdAAGc2NyZWVuc3EAfgAM+vD7EHQABiRpbml0JHNxAH4ADAF/7qR0AARjb3B5c3EAfgAMrtNeJ3QABWFkbWl0c3EAfgAMUJ9qsHQACHRvU3RyaW5nc3EAfgAMgBe3v3QAAiE9c3EAfgAMq7DxsHQACHNob3dpbmdzc3EAfgAM7XvX83QACGdldENsYXNzc3EAfgAM39p5WHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMZazvVXQAAm5lc3EAfgAMHdh33HQABGZpbG1zcQB+AAzUfkHYdAACZXFzcQB+AAxjZDgQdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMVUc/V3QAAiMjc3EAfgAMwnnpxXQACGZpbmFsaXplc3EAfgAMAIObx3QADnByb2R1Y3RFbGVtZW50c3EAfgAMnD1PwnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAB3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AbXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCJc3EAfgCEdXEAfgBoAAAAAHNxAH4AhHVxAH4AaAAAAABzcQB+AIR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKJzcQB+AJV0AANBbnlzcQB+AJlzcQB+AJx1cQB+AJ8AAAACc3EAfgChdAAFc2NhbGFxAH4AqHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegBxAH4AIXVxAH4AfAAAAABxAH4AgHVxAH4AggAAAABzcQB+AIRxAH4AinNxAH4AhHNxAH4AjHNxAH4AhHVxAH4AaAAAAABzcQB+AIR1cQB+AGgAAAAAc3EAfgCEdXEAfgCTAAAAB3NxAH4AlXQADFNlcmlhbGl6YWJsZXNxAH4AmXNxAH4AnHVxAH4AnwAAAAJzcQB+AKFxAH4Ar3EAfgCoc3EAfgCVcQB+AL9zcQB+AJlzcQB+AJx1cQB+AJ8AAAADc3EAfgChcQB+AKRzcQB+AKF0AAJpb3EAfgCoc3EAfgCVdAAHUHJvZHVjdHEAfgDAc3EAfgCVdAAGRXF1YWxzcQB+AMBzcQB+AJV0AAZUaWNrZXRzcQB+AJlzcQB+AJx1cQB+AJ8AAAABcQB+AKhzcQB+AJVxAH4AmHNxAH4AmXNxAH4AnHVxAH4AnwAAAANzcQB+AKFxAH4ApHNxAH4AoXEAfgCmcQB+AKhzcQB+AJVxAH4AqnEAfgDAc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHEAfgAddXEAfgB8AAAAAHEAfgCAdXEAfgCCAAAAAHNxAH4AhHEAfgCKc3EAfgCEc3EAfgCMc3EAfgCEdXEAfgBoAAAAAHNxAH4AhHVxAH4AaAAAAABzcQB+AIR1cQB+AJMAAAAHc3EAfgCVcQB+AL9zcQB+AJlzcQB+AJx1cQB+AJ8AAAACc3EAfgChcQB+AK9xAH4AqHNxAH4AlXEAfgC/c3EAfgCZc3EAfgCcdXEAfgCfAAAAA3NxAH4AoXEAfgCkc3EAfgChdAACaW9xAH4AqHNxAH4AlXEAfgDMcQB+AOpzcQB+AJV0AAZFcXVhbHNxAH4A6nNxAH4AlXQABlRpY2tldHNxAH4AmXNxAH4AnHVxAH4AnwAAAAFxAH4AqHNxAH4AlXEAfgCYc3EAfgCZc3EAfgCcdXEAfgCfAAAAA3NxAH4AoXEAfgCkc3EAfgChcQB+AKZxAH4AqHNxAH4AlXEAfgCqcQB+AOpzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoAcQB+AEF1cQB+AHwAAAAAcQB+AIB1cQB+AIIAAAAAc3EAfgCEcQB+AIpzcQB+AIRzcQB+AIxzcQB+AIR1cQB+AGgAAAAAc3EAfgCEdXEAfgBoAAAAAHNxAH4AhHVxAH4AkwAAAAZzcQB+AJVxAH4Av3NxAH4AmXNxAH4AnHVxAH4AnwAAAAJzcQB+AKFxAH4Ar3EAfgCoc3EAfgCVcQB+AL9zcQB+AJlzcQB+AJx1cQB+AJ8AAAADc3EAfgChcQB+AKRzcQB+AKF0AAJpb3EAfgCoc3EAfgCVcQB+AMxxAH4BE3NxAH4AlXQABkVxdWFsc3EAfgETc3EAfgCVcQB+AJhzcQB+AJlzcQB+AJx1cQB+AJ8AAAADc3EAfgChcQB+AKRzcQB+AKFxAH4ApnEAfgCoc3EAfgCVcQB+AKpxAH4BE3NxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegBxAH4AKXVxAH4AfAAAAABxAH4AgHVxAH4AggAAAABzcQB+AIRxAH4AinNxAH4AhHNxAH4AjHNxAH4AhHVxAH4AaAAAAABzcQB+AIR1cQB+AGgAAAAAc3EAfgCEdXEAfgCTAAAABnNxAH4AlXEAfgC/c3EAfgCZc3EAfgCcdXEAfgCfAAAAAnNxAH4AoXEAfgCvcQB+AKhzcQB+AJVxAH4Av3NxAH4AmXNxAH4AnHVxAH4AnwAAAANzcQB+AKFxAH4ApHNxAH4AoXQAAmlvcQB+AKhzcQB+AJVxAH4AzHEAfgE3c3EAfgCVdAAGRXF1YWxzcQB+ATdzcQB+AJVxAH4AmHNxAH4AmXNxAH4AnHVxAH4AnwAAAANzcQB+AKFxAH4ApHNxAH4AoXEAfgCmcQB+AKhzcQB+AJVxAH4AqnEAfgE3c3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHEAfgA7dXEAfgB8AAAAAHEAfgCAdXEAfgCCAAAAAHNxAH4AhHEAfgCKc3EAfgCEc3EAfgCMc3EAfgCEdXEAfgBoAAAAAHNxAH4AhHVxAH4AaAAAAABzcQB+AIR1cQB+AJMAAAACc3EAfgCVcQB+AJhzcQB+AJlzcQB+AJx1cQB+AJ8AAAADc3EAfgChcQB+AKRzcQB+AKFxAH4ApnEAfgCoc3EAfgCVcQB+AKpzcQB+AJlzcQB+AJx1cQB+AJ8AAAACc3EAfgChcQB+AK9xAH4AqHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegBxAH4AE3VxAH4AfAAAAABxAH4AgHVxAH4AggAAAABzcQB+AIRxAH4AinNxAH4AhHNxAH4AjHNxAH4AhHVxAH4AaAAAAABzcQB+AIR1cQB+AGgAAAAAc3EAfgCEdXEAfgCTAAAAAnNxAH4AlXEAfgCYc3EAfgCZc3EAfgCcdXEAfgCfAAAAA3NxAH4AoXEAfgCkc3EAfgChcQB+AKZxAH4AqHNxAH4AlXEAfgCqc3EAfgCZc3EAfgCcdXEAfgCfAAAAAnNxAH4AoXEAfgCvcQB+AKh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fI3C51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB3L1VzZXJzL21qYnVyZ2Vzcy9Ecm9wYm94L1FBL2NvdXJzZXdhcmUtZGV2L3NjYWxhLW5vdGVzL3NjYWxhLXNvbHV0aW9ucy9Tb2x1dGlvbjEyLlRlc3QvY2luZW1hL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTJfCFJxd/D9KpKfcanDSzitghPyw==
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwoZXx8AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmf9s33QABm5vdGlmeXNxAH4ADBN5bhR0AAR3YWl0c3EAfgAM7qBBtHQADSRhc0luc3RhbmNlT2ZzcQB+AAxNhEEcdAAGZXF1YWxzc3EAfgAMkt1dN3QADGFzSW5zdGFuY2VPZnNxAH4ADPMwK3p0AAxzeW5jaHJvbml6ZWRzcQB+AAwmdCppdAANJGlzSW5zdGFuY2VPZnNxAH4ADPw3MmJ0ABFDaW5lbWFBcHBsaWNhdGlvbnNxAH4ADKC7ewZ0AARtYWluc3EAfgAMuWksWnQACW5vdGlmeUFsbHNxAH4ADJyjNsp0AAxpc0luc3RhbmNlT2ZzcQB+AAzEYDcYdAACPT1zcQB+AAz7StnudAAFY2xvbmVzcQB+AAxboeyVdAAIdG9TdHJpbmdzcQB+AAykm6MOdAACIT1zcQB+AAyRDozVdAAIZ2V0Q2xhc3NzcQB+AAyAJ7yZdAACbmVzcQB+AAwZEL1DdAACZXFzcQB+AAwfLOA6dAACIyNzcQB+AAwgZMnhdAAIZmluYWxpemVzcQB+AAxpxCIqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AB11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVt3x/9tdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUpJfoRL3zIBPv6MhKs4cmKWmoFhw=
+external apis:
+0 items
+source infos:
+2 items
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Cinema.scala -> 
+AAAAAAAAAAA=
+/Users/mjburgess/Dropbox/QA/courseware-dev/scala-notes/scala-solutions/Solution12.Test/cinema/src/main/scala/Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3dWNvF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fAE5x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fAZ3l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fA9jh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fBKCp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fB0th1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fH/211cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fIkzt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW3fI3C51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdy9Vc2Vycy9tamJ1cmdlc3MvRHJvcGJveC9RQS9jb3Vyc2V3YXJlLWRldi9zY2FsYS1ub3Rlcy9zY2FsYS1zb2x1dGlvbnMvU29sdXRpb24xMi5UZXN0L2NpbmVtYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
